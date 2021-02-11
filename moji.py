@@ -1,0 +1,2 @@
+from myProyect import *
+
